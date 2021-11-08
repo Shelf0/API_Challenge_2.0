@@ -1,0 +1,10 @@
+
+OBSERVATIONS
+
+#1. First off, as we look at the temperatures in relation to the equator, as expected the temperatures rise the close you are to the equator while they fall as they get close to the north & south poles. 
+    Also, the outliers in the northern hemisphere tended to be temperatures that were higher while the outliers in the southern hemisphere tended to be outliers that were lower temperature
+
+#2. Humidity did not seem to be affected by latitude. Looking at the regressions, you can see that its pretty much consistent across the board for borht the northern & southern hemispheres with a bit more of a slope for the southern hemisphere. 
+
+#3. Interstingly enough, we can also see that wind speed has a very similar trend to Humidity. While The northern hemisphere doesn't seem to have much change due to latitude, there is a slight change when it comes to the southern hemisphere. 
+    As you go closer to the south pole, the wind speed tends to increase more, which could suggest that the south pole has a higher windchill factor than the north pole. Therefore, an argument could be made that the south pole is colder than the north pole. 
